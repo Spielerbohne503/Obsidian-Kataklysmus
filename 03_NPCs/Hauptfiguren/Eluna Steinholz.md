@@ -7,9 +7,9 @@ tags:
   - stand/fertig
 ---
 
-![[Eluna Steinholz.png]]
-
-> [!info] Übersicht
+> [!profil] Übersicht
+> ![[Eluna Steinholz.png]]
+> 
 > **Name:**
 > Eluna Mara Steinholz (née Silberblatt)
 > 
@@ -41,7 +41,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Ehemann [[Grak Steinholz]]

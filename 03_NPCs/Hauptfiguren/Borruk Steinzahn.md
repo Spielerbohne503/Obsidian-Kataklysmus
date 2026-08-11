@@ -7,7 +7,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Borruk Steinzahn
 > 
@@ -39,7 +39,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > N.v.

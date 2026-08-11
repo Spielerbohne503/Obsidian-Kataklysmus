@@ -9,7 +9,7 @@ tags:
   - tot
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > N.v.
 > 

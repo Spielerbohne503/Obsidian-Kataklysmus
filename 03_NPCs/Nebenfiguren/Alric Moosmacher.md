@@ -7,7 +7,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Alric Moosmacher
 > 

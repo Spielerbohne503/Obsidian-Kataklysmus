@@ -5,9 +5,10 @@ tags:
   - seite/menschen
   - rolle/militaer
   - stand/fertig
+  - tot
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Theron Eiswacht
 > 
@@ -39,7 +40,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Tot
 > 
 > **Verwandte:**
 > N.v.

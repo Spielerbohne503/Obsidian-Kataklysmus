@@ -6,7 +6,7 @@ tags:
   - rolle/wirt
   - stand/fertig
 ---
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Grak Steinholz
 > 
@@ -38,7 +38,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Ehefrau [[Eluna Steinholz]]

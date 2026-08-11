@@ -7,7 +7,7 @@ tags:
   - stand/geruest
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Margaret Dolka
 > 
@@ -39,7 +39,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > N.v.

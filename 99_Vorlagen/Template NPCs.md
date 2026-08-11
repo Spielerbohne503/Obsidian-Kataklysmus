@@ -1,5 +1,12 @@
+---
+tags:
+  - typ/npc/
+  - stand/leer
+---
 
-> [!info] Übersicht
+> [!profil] Übersicht
+> %% Hauptbild: ![[Dateiname.png]] hier einsetzen und diese Kommentarklammern entfernen %%
+> 
 > **Name:**
 > N.v.
 > 
@@ -31,7 +38,7 @@
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > N.v.

@@ -85,14 +85,22 @@ Ordner sind nach dem Obsidian-Muster gebaut: Ein Ordner `X/` enthält eine gleic
 
 ## 4. Notizformate
 
-**NPCs, benannte Kreaturen** — optional `![[Bild.png]]` ganz oben, dann Callout, dann Blöcke:
+**NPCs** — Callout `[!profil]`, optionales Hauptbild als **erster Eintrag im Callout**, dann Blöcke:
 ```
-> [!info] Übersicht
+> [!profil] Übersicht
+> ![[Bild.png]]        ← optional, muss INNERHALB des Callouts stehen
 > **Name:** / **Alias:** / **Geschlecht:** / **Spezies:** / **Alter:** / **Größe:** /
 > **Beruf:** / **Nationalität:** / **Wohnort:** / **Herkunft:** / **Status:** /
 > **Verwandte:** / **Freunde:** / **Bekannte** / **Feinde:**
 ```
-(benannte Kreaturen statt Beruf/Nationalität/Wohnort: **Residenz:**, zusätzlich **Nahrung:**, **Gefahrenstufe:**, **Aggressionslevel**, **Intelligenzlevel**)
+`[!profil]` wird vom CSS-Snippet `.obsidian/snippets/npc-profil-card.css` als Fandom-artige
+Infobox rechts neben dem Fließtext gerendert (Stand 11.08.2026, alle 72 NPCs umgestellt).
+**Nie durch rohes HTML ersetzen** — in `<div>`-Blöcken rendert Obsidian weder `[[Wikilinks]]`
+noch `![[Embeds]]`, und es entstehen keine Graph-Kanten. Genau dafür ist es ein Callout.
+
+**Benannte Kreaturen** — noch auf `[!info] Übersicht` (10 Notizen, nicht umgestellt).
+Statt Beruf/Nationalität/Wohnort: **Residenz:**, zusätzlich **Nahrung:**, **Gefahrenstufe:**,
+**Aggressionslevel**, **Intelligenzlevel**
 
 Danach: `**Biographie:**` `**Fähigkeiten:**` `**Ausrüstung:**` `**Zitate:**` `**Trivia:**` `**Galerie:**` `**DM Notes:**`
 
@@ -134,7 +142,7 @@ Kein `#hauptfigur` o. ä. ohne `typ/`-Präfix — die Verschachtelung sorgt daf�
 **Verlinkung (Graph View):**
 - Der Vault ist durchgehend mit `[[Wikilinks]]` vernetzt (Stand 10.08.2026: ~765 Links). **Bei jeder neuen oder geänderten Notiz mitziehen.**
 - Regel: **die erste Erwähnung** einer anderen Entität pro Notiz wird verlinkt, weitere nicht — sonst wird der Fließtext unlesbar.
-- In den Feldern des `> [!info] Übersicht`-Callouts (**Wohnort**, **Herkunft**, **Verwandte**, **Freunde**, **Bekannte**, **Feinde**) wird **jeder** Eintrag verlinkt. Das sind die wertvollsten Kanten im Graph.
+- In den Feldern des `> [!profil] Übersicht`-Callouts (**Wohnort**, **Herkunft**, **Verwandte**, **Freunde**, **Bekannte**, **Feinde**) wird **jeder** Eintrag verlinkt. Das sind die wertvollsten Kanten im Graph.
 - Flektierte Formen bekommen einen Anzeigetext: `[[Jorin Aschwind|Jorins]]`, `[[Aschekristalle|Aschekristallen]]`, `[[Das Ewige Auge|Ewigen Auge]]`.
 - **Nie** den eigenen Notiznamen verlinken und nie einen längeren Eigennamen zerschneiden (`[[Borin]] Grauschuh` ist falsch).
 - Bewusst **nicht** verlinkt, weil zu generisch: `Der Händler`, `Der Müller`, `Die Zwillinge`, `Alte Frau`, `Junger Mann`, `Menschen`, `Orte`, `Ausstehend`, die „Unbenannt"-Platzhalter.
@@ -143,8 +151,9 @@ Kein `#hauptfigur` o. ä. ohne `typ/`-Präfix — die Verschachtelung sorgt daf�
 - Leeres Feld = `N.v.` (nie leer lassen, nie „—" oder „unbekannt")
 - `**Bekannte**` steht ohne Doppelpunkt — bewusst so, beibehalten
 - Mehrere Entitäten in einer Notiz: Felder mit `/` trennen (siehe *Die letzte Brut*, *Die Zwillinge*)
-- Bilder: `![[Dateiname.png]]`, Hauptbild oben, weitere unter `**Galerie:**`
-- Tote: `**Status:** Tot`, letzte Worte unter `**Zitate:**` mit `*(letzte Worte)*`
+- Bilder: `![[Dateiname.png]]`, Hauptbild als erster Eintrag **im `[!profil]`-Callout**, weitere unter `**Galerie:**`
+- **`Status` ist nie `N.v.`** — geschlossenes Vokabular: `Lebendig` · `Tot`. Default bei neuen NPCs: `Lebendig`. Mehrere Entitäten pro Notiz mit `/` (z. B. `Tot/Tot/Tot/Tot`)
+- Tote: `**Status:** Tot`, Flag-Tag `tot`, letzte Worte unter `**Zitate:**` mit `*(letzte Worte)*`
 
 ---
 

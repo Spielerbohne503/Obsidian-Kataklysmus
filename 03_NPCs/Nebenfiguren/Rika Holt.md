@@ -8,9 +8,9 @@ tags:
   - stand/fertig
 ---
 
-![[Rika Holt.png]]
-
-> [!info] Übersicht
+> [!profil] Übersicht
+> ![[Rika Holt.png]]
+> 
 > **Name:**
 > Annerieke "Rika" Holt
 > 
@@ -42,7 +42,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Tochter [[Lena Holt]]

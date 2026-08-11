@@ -9,9 +9,9 @@ tags:
   - tot
 ---
 
-![[Cornelius Abercrombie.png]]
-
-> [!info] Übersicht
+> [!profil] Übersicht
+> ![[Cornelius Abercrombie.png]]
+> 
 > **Name:**
 > Cornelius Abercrombie
 > 

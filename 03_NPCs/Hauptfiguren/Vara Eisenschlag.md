@@ -9,7 +9,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Vara Eisenschlag
 > 
@@ -42,7 +42,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > N.v.

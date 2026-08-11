@@ -1,0 +1,137 @@
+/* ===========================================================
+   NPC Profil-Karte — Weltbibel
+   Fandom-artige Infobox, rechts neben dem Fließtext.
+
+   Aktivierung: Einstellungen → Erscheinungsbild → CSS-Snippets
+   → "npc-profil-card" einschalten.
+
+   Angesteuert wird das Callout  > [!profil] Übersicht
+   BEWUSST ein Callout und kein <div>: In rohem HTML rendert
+   Obsidian keine [[Wikilinks]] und keine ![[Bild.png]]-Embeds,
+   und es entstehen weder Graph-Kanten noch Backlinks.
+   Im Callout bleibt alles davon erhalten.
+   =========================================================== */
+
+.callout[data-callout="profil"] {
+  /* Akzentfarbe – hier zentral änderbar (Kanon-Violett) */
+  --profil-akzent: #6d3f9c;
+  --profil-akzent-hell: #e9def5;
+
+  float: right;
+  width: 300px;
+  max-width: 45%;
+  margin: 0.2em 0 1.2em 1.6em;
+
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  background: var(--background-secondary);
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.10);
+  font-size: 0.85em;
+  line-height: 1.45;
+  mix-blend-mode: unset;
+}
+
+/* --- Kopfzeile ("Übersicht") --- */
+.callout[data-callout="profil"] .callout-title {
+  display: block;
+  padding: 7px 12px;
+  background: var(--profil-akzent);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.95em;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+
+/* Callout-Icon und Klapp-Pfeil raus – das ist eine Infobox, kein Hinweis */
+.callout[data-callout="profil"] .callout-icon,
+.callout[data-callout="profil"] .callout-fold {
+  display: none;
+}
+
+.callout[data-callout="profil"] .callout-title-inner {
+  color: #fff;
+}
+
+.callout[data-callout="profil"] .callout-content {
+  padding: 0;
+}
+
+/* --- Feldzeilen ---
+   Jedes Feld ist ein eigener Absatz:  **Label:** <br> Wert  */
+.callout[data-callout="profil"] .callout-content > p {
+  margin: 0;
+  padding: 6px 12px;
+  border-top: 1px solid var(--background-modifier-border);
+}
+
+.callout[data-callout="profil"] .callout-content > p:nth-of-type(odd) {
+  background: rgb(0 0 0 / 0.025);
+}
+
+/* Label */
+.callout[data-callout="profil"] .callout-content > p > strong {
+  display: block;
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 0.78em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 1px;
+}
+
+/* --- Bild: sitzt als erster Absatz im Callout, randlos --- */
+.callout[data-callout="profil"] .callout-content > p:first-child:has(.image-embed),
+.callout[data-callout="profil"] .callout-content > p:has(> .image-embed:only-child) {
+  padding: 0;
+  border-top: none;
+  background: none;
+  line-height: 0;
+}
+
+.callout[data-callout="profil"] .image-embed img,
+.callout[data-callout="profil"] img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+
+/* Links in der Box etwas ruhiger als im Fließtext */
+.callout[data-callout="profil"] a.internal-link {
+  text-decoration: none;
+}
+
+.callout[data-callout="profil"] a.internal-link:hover {
+  text-decoration: underline;
+}
+
+/* --- Dunkles Theme --- */
+.theme-dark .callout[data-callout="profil"] {
+  --profil-akzent: #7c4dab;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.35);
+}
+
+.theme-dark .callout[data-callout="profil"] .callout-content > p:nth-of-type(odd) {
+  background: rgb(255 255 255 / 0.03);
+}
+
+/* --- Schmale Fenster & Mobil: Box bricht auf volle Breite --- */
+@media (max-width: 700px) {
+  .callout[data-callout="profil"] {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 1.2em 0;
+  }
+}
+
+/* Fließtext nach der Box sauber abschließen, damit Überschriften
+   nicht neben der Infobox kleben bleiben */
+.markdown-preview-view h2,
+.markdown-preview-view h1,
+.markdown-source-view.mod-cm6 .HyperMD-header {
+  clear: right;
+}

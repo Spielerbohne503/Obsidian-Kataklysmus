@@ -7,7 +7,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > N.v.
 > 
@@ -39,7 +39,7 @@ tags:
 > Drachenwall
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Bruder

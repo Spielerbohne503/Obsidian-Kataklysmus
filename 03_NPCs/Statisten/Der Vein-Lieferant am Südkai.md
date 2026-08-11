@@ -7,7 +7,7 @@ tags:
   - offen
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > N.v.
 > 
@@ -39,7 +39,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > N.v.

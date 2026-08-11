@@ -8,7 +8,7 @@ tags:
   - tot
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Serin Drachbart
 > 

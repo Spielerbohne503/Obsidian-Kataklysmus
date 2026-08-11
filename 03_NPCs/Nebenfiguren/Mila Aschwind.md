@@ -6,7 +6,7 @@ tags:
   - land/dornwacht
   - stand/fertig
 ---
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Mila Aschwind
 > 
@@ -38,7 +38,7 @@ tags:
 > Salhaven
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Mutter [[Lenne Aschwind]] (tot)

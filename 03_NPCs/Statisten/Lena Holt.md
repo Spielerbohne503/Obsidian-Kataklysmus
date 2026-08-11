@@ -7,7 +7,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Magdalene "Lena" Holt
 > 
@@ -39,7 +39,7 @@ tags:
 > Silbertahl
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Mutter [[Rika Holt]]

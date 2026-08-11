@@ -7,7 +7,7 @@ tags:
   - stand/fertig
   - tot
 ---
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Lenne Aschwind (née N.v.)
 > 

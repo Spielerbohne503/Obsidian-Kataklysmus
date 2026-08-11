@@ -7,9 +7,9 @@ tags:
   - stand/fertig
 ---
 
-![[König Aldric.png]]
-
-> [!info] Übersicht
+> [!profil] Übersicht
+> ![[König Aldric.png]]
+> 
 > **Name:**
 > Aldric
 > 
@@ -41,7 +41,7 @@ tags:
 > Drachenwall
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Vater

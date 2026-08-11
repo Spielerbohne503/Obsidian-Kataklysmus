@@ -6,7 +6,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Lina
 > 
@@ -38,7 +38,7 @@ tags:
 > Espenbruch
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Mutter (tot)

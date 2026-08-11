@@ -7,7 +7,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > N.v./N.v.
 > 
@@ -39,7 +39,7 @@ tags:
 > Silbertahl/Silbertahl
 > 
 > **Status:**
-> N.v./N.v.
+> Lebendig/Lebendig
 > 
 > **Verwandte:**
 > N.v./N.v.

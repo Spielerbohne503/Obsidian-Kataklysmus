@@ -6,7 +6,7 @@ tags:
   - stand/fertig
   - tot
 ---
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Hilde Drachbart (née Hohenland)
 > 

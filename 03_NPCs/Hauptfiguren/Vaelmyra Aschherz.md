@@ -6,7 +6,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Vaelmyra Aschherz
 > 

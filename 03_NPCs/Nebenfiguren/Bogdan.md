@@ -7,7 +7,7 @@ tags:
   - rolle/bergbau
   - stand/fertig
 ---
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Bogdan
 > 
@@ -39,7 +39,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 >N.v.

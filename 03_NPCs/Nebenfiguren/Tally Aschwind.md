@@ -7,7 +7,7 @@ tags:
   - rolle/handwerk
   - stand/fertig
 ---
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Tally Amanda Aschwind
 > 
@@ -39,7 +39,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > Bruder [[Jorin Aschwind]] (tot)

@@ -5,9 +5,9 @@ tags:
   - stand/fertig
 ---
 
-![[Rubinroter Zauberer.jpeg]]
-
-> [!info] Übersicht
+> [!profil] Übersicht
+> ![[Rubinroter Zauberer.jpeg]]
+> 
 > **Name:**
 > Reginald Oscars
 > 

@@ -6,7 +6,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Enna Tidenarr
 > 
@@ -39,7 +39,7 @@ tags:
 > [[Grauhafen]]
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > N.v.

@@ -8,7 +8,7 @@ tags:
   - stand/fertig
 ---
 
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Fennrik
 > 
@@ -40,7 +40,7 @@ tags:
 > [[Dornwacht]]
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > N.v.

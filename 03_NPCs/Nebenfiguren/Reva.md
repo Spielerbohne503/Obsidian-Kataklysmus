@@ -7,7 +7,7 @@ tags:
   - rolle/wirt
   - stand/fertig
 ---
-> [!info] Übersicht
+> [!profil] Übersicht
 > **Name:**
 > Reva
 > 
@@ -39,7 +39,7 @@ tags:
 > N.v.
 > 
 > **Status:**
-> N.v.
+> Lebendig
 > 
 > **Verwandte:**
 > N.v.
