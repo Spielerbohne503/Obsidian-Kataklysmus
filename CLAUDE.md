@@ -98,9 +98,12 @@ Infobox rechts neben dem Fließtext gerendert (Stand 11.08.2026, alle 72 NPCs um
 **Nie durch rohes HTML ersetzen** — in `<div>`-Blöcken rendert Obsidian weder `[[Wikilinks]]`
 noch `![[Embeds]]`, und es entstehen keine Graph-Kanten. Genau dafür ist es ein Callout.
 
-**Benannte Kreaturen** — noch auf `[!info] Übersicht` (10 Notizen, nicht umgestellt).
-Statt Beruf/Nationalität/Wohnort: **Residenz:**, zusätzlich **Nahrung:**, **Gefahrenstufe:**,
-**Aggressionslevel**, **Intelligenzlevel**
+**Kreaturen** — zwei Vorlagen, beide seit 11.08.2026 ebenfalls auf `[!profil]`:
+`Template benannte Kreaturen.md` (Einzelwesen; statt Beruf/Nationalität/Wohnort **Residenz:**,
+zusätzlich **Nahrung:**, **Gefahrenstufe:**, **Aggressionslevel**, **Intelligenzlevel**) und
+`Template Kreaturen.md` (Spezies-Ebene; kein Name/Status, dafür **Gebiete:**).
+⚠️ **Die 10 bestehenden Kreaturen-Notizen stehen noch auf `[!info] Übersicht`** und bekommen
+die Infobox daher nicht. Umstellung steht aus — nur Suchen/Ersetzen, aber noch nicht gemacht.
 
 Danach: `**Biographie:**` `**Fähigkeiten:**` `**Ausrüstung:**` `**Zitate:**` `**Trivia:**` `**Galerie:**` `**DM Notes:**`
 

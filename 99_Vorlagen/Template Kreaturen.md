@@ -1,5 +1,12 @@
+---
+tags:
+  - typ/kreatur/
+  - stand/leer
+---
 
-> [!info] Übersicht
+> [!profil] Übersicht
+> %% Hauptbild: ![[Dateiname.png]] hier einsetzen und diese Kommentarklammern entfernen %%
+> 
 > **Spezies:**
 > N.v.
 > 
