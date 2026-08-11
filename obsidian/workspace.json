@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "5af58f24fc9cf241",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4100c2c39f2a032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa82049c9483d3a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee1640c8d35932b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba4b03e7ae0d2c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a58c95fc901bca92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "3599017a2b172dfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "61d34aecc3b212c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "2f43ee5e887f037f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbdd9a182e0a8655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e711669ce80d051",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99_Vorlagen/NPCs__VORLAGE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf NPCs__VORLAGE"
+            }
+          },
+          {
+            "id": "9dfbb84a4dd33069",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99_Vorlagen/NPCs__VORLAGE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von NPCs__VORLAGE öffnen"
+            }
+          },
+          {
+            "id": "acc059ce9a790d6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "76f1e1a48a38d5fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "cb34fa95977b7482",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99_Vorlagen/NPCs__VORLAGE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von NPCs__VORLAGE"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:Änderungen veröffentlichen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "a58c95fc901bca92",
+  "lastOpenFiles": [
+    "obsidian/plugins/templater-obsidian/data.json",
+    "obsidian/plugins/obsidian-icon-folder/manifest.json",
+    "obsidian/plugins/obsidian-excalidraw-plugin/main.js",
+    "obsidian/plugins/templater-obsidian/styles.css",
+    "obsidian/plugins/templater-obsidian/manifest.json",
+    "obsidian/plugins/templater-obsidian/main.js",
+    "obsidian/plugins/obsidian-kanban/styles.css",
+    "obsidian/plugins/obsidian-kanban/manifest.json",
+    "obsidian/plugins/obsidian-kanban/main.js",
+    "obsidian/plugins/obsidian-icon-folder/styles.css",
+    "obsidian/plugins/obsidian-icon-folder/main.js",
+    "CLAUDE.md",
+    "03_NPCs/SC-Optionen/Enna Tidenarr.md",
+    "03_NPCs/SC-Optionen/Kleine & Große Fackel.md",
+    "03_NPCs/SC-Optionen/Ash.md",
+    "03_NPCs/SC-Optionen/Dorn Kravik.md",
+    "04_Kreaturen/Tiere/Das verwilderte Tier.md",
+    "05_Artefakte/Marker/Symbol des Ewigen Auges.md",
+    "05_Artefakte/Marker/Marke des Weißen Hahns.md",
+    "Weltbibel_DM_Perspektive.md",
+    "Unbenannt.canvas",
+    "04_Kreaturen/Magische Wesen/Vyrrath.md",
+    "02_Geographie/Die zwei Seiten/Ausstehend/Ausstehende Städte und Dörfer/Drachenwall/Drachenwall.md",
+    "02_Geographie/Die zwei Seiten/Ausstehend/Ausstehende Städte und Dörfer/Espenbruch/Espenbruch.md",
+    "04_Kreaturen/Magische Wesen/Das Ding aus dem Wald.md",
+    "03_NPCs/Hauptfiguren/Quint.md",
+    "Excalidraw/Drawing 2026-08-10 15.23.31.excalidraw.md",
+    "03_NPCs/Statisten/Borin Grauschuh.md",
+    "01_Weltregeln/Kosmologie/Zeitleiste.md",
+    "03_NPCs/Hauptfiguren/Cornelius Abercrombie.md",
+    "07_Fraktionen/Organisationen/Das Vein-Netzwerk.md",
+    "03_NPCs/Nebenfiguren/Rika Holt.md",
+    "04_Kreaturen/Magische Wesen/Grimmwanst.md",
+    "02_Geographie/Die zwei Seiten/Die zwei Seiten.md",
+    "07_Fraktionen/Organisationen/Der Weiße Hahn.md",
+    "03_NPCs/Statisten/Zwei Kinder von Silbertahl.md",
+    "01_Weltregeln/Kosmologie/Der Kataklysmus.md",
+    "Galerie/Rubinroter Zauberer.jpeg",
+    "Galerie/Reginald Oscars.png",
+    "Galerie/Der Kopf im Thronsaal.png",
+    "Galerie/Rika Holt.png",
+    "Galerie/Zum Schwarzen Mond Wappen.png",
+    "Galerie/König Aldric.png",
+    "Galerie/Eluna Steinholz.png",
+    "Galerie/Cornelius Abercrombie Maske.png",
+    "Galerie/Cornelius Abercrombie injiziert.png",
+    "Galerie/Cornelius Abercrombie in Alltagskleidung.png"
+  ]
+}

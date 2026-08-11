@@ -1,0 +1,183 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1772111328752,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1772111328752,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1773918745459,
+              "path": "PNP/TOOL'S.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1773918745459,
+              "path": "PNP/TOOL'S.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1772111328752,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1772115072471,
+                  "path": "PNP/Katalysm/KARTE.canvas",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1772111328752,
+                  "path": "PNP/Katalysm/SETTING.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1773918772909,
+                  "path": "PNP/Katalysm/Brain dump.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1772114396087,
+                  "items": [
+                    {
+                      "type": "group",
+                      "ctime": 1772114379044,
+                      "items": [
+                        {
+                          "type": "group",
+                          "ctime": 1772114326754,
+                          "items": [
+                            {
+                              "type": "group",
+                              "ctime": 1772114326754,
+                              "items": [],
+                              "title": "Tiefwasser"
+                            }
+                          ],
+                          "title": "\\\\Städte"
+                        }
+                      ],
+                      "title": "\\\\Länder"
+                    }
+                  ],
+                  "title": "Kontienente"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1773918772909,
+                  "items": [],
+                  "title": "Mythologien Götter"
+                }
+              ],
+              "title": "\\\\Katalysm"
+            }
+          ],
+          "title": "PNP"
+        },
+        {
+          "type": "group",
+          "ctime": 1772111328752,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1773918745459,
+              "path": "PNP/TOOL'S.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1773918745459,
+              "path": "PNP/TOOL'S.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1772111328752,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1772115072471,
+                  "path": "PNP/Katalysm/KARTE.canvas",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1772111328752,
+                  "path": "PNP/Katalysm/SETTING.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1773918772909,
+                  "path": "PNP/Katalysm/Brain dump.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1772114396087,
+                  "items": [
+                    {
+                      "type": "group",
+                      "ctime": 1772114379044,
+                      "items": [
+                        {
+                          "type": "group",
+                          "ctime": 1772114326754,
+                          "items": [
+                            {
+                              "type": "group",
+                              "ctime": 1772114326754,
+                              "items": [],
+                              "title": "Tiefwasser"
+                            }
+                          ],
+                          "title": "\\\\Städte"
+                        }
+                      ],
+                      "title": "\\\\Länder"
+                    }
+                  ],
+                  "title": "Kontienente"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1773918772909,
+                  "items": [],
+                  "title": "Mythologien Götter"
+                }
+              ],
+              "title": "\\\\Katalysm"
+            }
+          ],
+          "title": "PNP"
+        },
+        {
+          "type": "group",
+          "ctime": 1773919128838,
+          "items": [],
+          "title": "MSC"
+        }
+      ],
+      "title": "sortspec"
+    },
+    {
+      "type": "group",
+      "ctime": 1773918848660,
+      "items": [],
+      "title": "MSC"
+    },
+    {
+      "type": "group",
+      "ctime": 1773919128838,
+      "items": [],
+      "title": "MSC"
+    }
+  ]
+}

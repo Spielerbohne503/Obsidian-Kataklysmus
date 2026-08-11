@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Weltbibel",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#stand/leer",
+      "color": {
+        "a": 1,
+        "rgb": 4014928
+      }
+    },
+    {
+      "query": "path:\"01_Weltregeln\"",
+      "color": {
+        "a": 1,
+        "rgb": 15235577
+      }
+    },
+    {
+      "query": "tag:#runde/mauer",
+      "color": {
+        "a": 1,
+        "rgb": 14701375
+      }
+    },
+    {
+      "query": "tag:#runde/kathedrale",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "tag:#runde/espenbruch",
+      "color": {
+        "a": 1,
+        "rgb": 4103770
+      }
+    },
+    {
+      "query": "tag:#runde/salhaven",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
+      "query": "tag:#runde/silbertahl",
+      "color": {
+        "a": 1,
+        "rgb": 3718648
+      }
+    },
+    {
+      "query": "tag:#runde/wurzelgrund",
+      "color": {
+        "a": 1,
+        "rgb": 14251782
+      }
+    },
+    {
+      "query": "tag:#runde/schwarzmond",
+      "color": {
+        "a": 1,
+        "rgb": 6514417
+      }
+    },
+    {
+      "query": "path:\"06_Völker\"",
+      "color": {
+        "a": 1,
+        "rgb": 9741240
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 2.3382243902439,
+  "lineSizeMultiplier": 0.6,
+  "collapse-forces": false,
+  "centerStrength": 0.350634146341463,
+  "repelStrength": 15.0372410978472,
+  "linkStrength": 1,
+  "linkDistance": 96,
+  "scale": 0.16616093603272214,
+  "close": true
+}

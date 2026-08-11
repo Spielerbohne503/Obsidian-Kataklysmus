@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBookTemplate",
+      "LiHand",
+      "LiTent",
+      "LiPersonStanding",
+      "LiHeartHandshake"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "01_Weltregeln": "LiEarth",
+  "01_Weltregeln/Kosmologie": "LiOrbit",
+  "03_NPCs": "LiPersonStanding",
+  "03_NPCs/Hauptfiguren": "LiSparkles",
+  "03_NPCs/Nebenfiguren": "LiSparkle",
+  "03_NPCs/Statisten": "LiBoxSelect",
+  "04_Kreaturen": "LiEgg",
+  "04_Kreaturen/Tiere": "LiCat",
+  "04_Kreaturen/Magische Wesen": "LiGhost",
+  "05_Artefakte": "LiSwords",
+  "06_Völker": "LiGroup",
+  "06_Völker/Kulturen": "LiHeartHandshake",
+  "99_Vorlagen": "LiBookTemplate"
+}
